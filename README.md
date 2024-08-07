@@ -19,7 +19,7 @@ Open the project in Visual Studio or your preferred C# development environment a
 3. Run the Application:
 Open a command prompt and navigate to the output directory (e.g., bin\Debug\net6.0). Run the application with the root folder as an argument:
 
-```sh
-Cleaner.exe "C:\Path\To\Your\Folder"
+	```sh
+	Cleaner.exe "C:\Path\To\Your\Folder"
 
 4. Or just run clean.ps1 if script running is allowed on your environment
