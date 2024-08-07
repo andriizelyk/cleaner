@@ -21,3 +21,5 @@ Open a command prompt and navigate to the output directory (e.g., bin\Debug\net6
 
 ```sh
 Cleaner.exe "C:\Path\To\Your\Folder"
+
+4. Or just run clean.ps1 if script running is allowed on your environment
